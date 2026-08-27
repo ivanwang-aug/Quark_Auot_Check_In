@@ -10,7 +10,7 @@
 >
 > 本仓库严厉谴责 [2pacJay/Quark_Auot_Check_In](https://github.com/2pacJay/Quark_Auot_Check_In) 仓库 **抹除原作者署名权的行为**，该行为严重违反 MIT 协议，侵害开源精神！
 
----
+---a
 
 ## 🚀 功能简介
 
